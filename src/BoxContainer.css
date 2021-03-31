@@ -1,0 +1,7 @@
+.BoxContainer {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  justify-content: center;
+  align-items: center;
+  grid-gap: 0;
+}
