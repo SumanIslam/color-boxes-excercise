@@ -1,2 +1,2 @@
 ## Live Preview
-https://colorboexesexcercise.herokuapp.com/
+https://color-boxes-excercise.vercel.app/
